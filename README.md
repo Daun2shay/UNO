@@ -1,2 +1,2 @@
 # UNO
-repo for UNO code
+Repository for my code for class at uno
